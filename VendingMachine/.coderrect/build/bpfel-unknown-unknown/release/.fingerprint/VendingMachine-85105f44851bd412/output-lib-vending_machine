@@ -1,0 +1,1 @@
+Error: programs/VendingMachine/src/lib.rs:37 Function _ZN73_$LT$vending_machine..VendingMachine$u20$as$u20$anchor_lang..Accounts$GT$12try_accounts17h689bcb466c7671c5E Stack offset of 5096 exceeded max offset of 4096 by 1000 bytes, please minimize large stack variables

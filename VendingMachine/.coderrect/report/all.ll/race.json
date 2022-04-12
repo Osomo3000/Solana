@@ -1,0 +1,14 @@
+raceData = 
+{"bcfile":"/workspace/.coderrect/build/bpfel-unknown-unknown/release/all.ll","dataRaces":[],"deadLocks":[],"generatedAt":"Fri 11 Mar 2022 19:09:04 PM","mismatchedAPIs":[],"orderViolations":[],"raceConditions":[],"toctou":[],"unsafeOperations":[],"untrustfulAccounts":[],"version":1};
+verData={"Version":"soteria build 1643895818","EnableMismatchedAPIs":true};
+projectDir="/workspace";
+
+// --------------- below are new data --------------------------- //
+comparedWithBase=false
+newDataRaces = [];
+newRaceCondition = [];
+newToctous = [];
+newMismatchedAPIs = [];
+baseGitCommitLog = "";
+currGitCommitLog  = "Scan at -- Fri Mar 11 19:09:04 UTC 2022";
+currentGitUrl = "";

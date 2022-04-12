@@ -1,0 +1,17 @@
+00:15:06 [info] [coderrect] [main.go:1083:main.main] Start a new session. version=soteria build 1643895818
+, args=[soteria -analyzeAll]    
+00:15:06 [info] [coderrect] [main.go:1099:main.main] Check cleanBuild flag. cleanBuild=false    
+00:15:06 [info] [coderrect] [main.go:1178:main.main] Passed cmdline args via env. cmdlineOpts={"Opts":["-analyzeAll","-logger.logFolder=/home/osboxes/VendingMachineAnchor/.coderrect/logs","-cwd=/home/osboxes/VendingMachineAnchor"]}    
+00:15:06 [info] [coderrect] [main.go:1225:main.main] Create the build directory. dir=/home/osboxes/VendingMachineAnchor/.coderrect/build    
+00:15:07 [info] [coderrect] [main.go:1332:main.main] Execute the build command to generate BC files. cmdline=[]    
+00:15:07 [info] [coderrect] [main.go:1340:main.main] Execute command line with coderrect-exec: (export LD_PRELOAD=/home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin/libear.so; /home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin/coderrect-exec )    
+00:15:07 [info] [coderrect] [main.go:1342:main.main] Path env: /home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin:/home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin/:/home/osboxes/.local/share/solana/install/active_release/bin:/home/osboxes/.local/bin:/home/osboxes/.local/share/solana/install/active_release/bin:/home/osboxes/.cargo/bin:/home/osboxes/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin    
+00:15:07 [info] [coderrect] [main.go:674:main.exitGracefully] End of the session. exitCode=1    
+00:15:40 [info] [coderrect] [main.go:1083:main.main] Start a new session. version=soteria build 1643895818
+, args=[soteria -e]    
+00:15:40 [info] [coderrect] [main.go:1099:main.main] Check cleanBuild flag. cleanBuild=false    
+00:15:40 [info] [coderrect] [main.go:1178:main.main] Passed cmdline args via env. cmdlineOpts={"Opts":["-analyzeBinaries=true","-logger.logFolder=/home/osboxes/VendingMachineAnchor/.coderrect/logs","-cwd=/home/osboxes/VendingMachineAnchor"]}    
+00:15:40 [info] [coderrect] [main.go:1332:main.main] Execute the build command to generate BC files. cmdline=[]    
+00:15:40 [info] [coderrect] [main.go:1340:main.main] Execute command line with coderrect-exec: (export LD_PRELOAD=/home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin/libear.so; /home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin/coderrect-exec )    
+00:15:40 [info] [coderrect] [main.go:1342:main.main] Path env: /home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin:/home/osboxes/VendingMachineAnchor/soteria-linux-develop/bin/:/home/osboxes/.local/share/solana/install/active_release/bin:/home/osboxes/.local/bin:/home/osboxes/.local/share/solana/install/active_release/bin:/home/osboxes/.cargo/bin:/home/osboxes/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin    
+00:15:40 [info] [coderrect] [main.go:674:main.exitGracefully] End of the session. exitCode=1    

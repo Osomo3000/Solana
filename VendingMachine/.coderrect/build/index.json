@@ -1,0 +1,12 @@
+{
+ "Executables": [
+  {
+   "Name": "all.ll",
+   "RaceJSON": "/workspace/.coderrect/build/raw_all.ll.json",
+   "DataRaces": 0,
+   "RaceConditions": 0,
+   "NewBugs": false
+  }
+ ],
+ "CoderrectVer": "soteria build 1643895818\n"
+}
